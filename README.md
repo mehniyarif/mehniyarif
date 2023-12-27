@@ -86,6 +86,9 @@ As a Full Stack Developer at Soludio, I was involved in a project where I contri
   - Built a notification infrastructure using WebSocket, enabling seamless file upload and download actions for efficient real-time communication within the application.
     
 ### Server-Side Development:
+  - Utilized Python with Django Rest Framework and Django for the server-side.
+  - Implemented DevOps processes using Docker containers on Linux machines for efficient deployment.
+  - Effectively managed server resources using tools like Parameter Store and EC2.
 
 - **Project Management and Methodologies:**
   - Proficient in utilizing project management systems such as Jira to optimize performance.
