@@ -25,12 +25,6 @@ Hello! I'm **Arif Mehniyar**, a seasoned Full Stack developer with 6 years of ex
 - Utilized SCSS for styling Vue files.
 - Used slots for creating dynamic components.
 
-### Tailwind CSS
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- Extensively used Tailwind CSS for responsive design.
-- Implemented features like dark mode.
-
 ### JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -45,6 +39,11 @@ Hello! I'm **Arif Mehniyar**, a seasoned Full Stack developer with 6 years of ex
 
 - Transitioned from Vuex to Pinia for state management in Vue 3.
 - Improved code efficiency.
+
+### User Interface Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## Backend Development
 
@@ -111,23 +110,6 @@ Hello! I'm **Arif Mehniyar**, a seasoned Full Stack developer with 6 years of ex
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
 
 - Implemented Scrum and Agile methodologies within the team.
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Data Analysis and Manipulation
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### User Interface Design
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### API Development and Documentation
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest&logoColor=white)
