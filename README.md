@@ -56,12 +56,7 @@ Hello! I'm Arif Mehniyar, a seasoned Full Stack developer with 6 years of experi
 
 As a Full Stack Developer at Soludio, I was involved in a project where I contributed to both the server-side and client-side development. Here are some key aspects of my role:
 
-- **Server-Side Development:**
-  - Utilized Python with Django Rest Framework and Django for server-side development.
-  - Implemented DevOps processes using Docker containers on Linux machines for streamlined deployment.
-  - Managed server resources using tools like Parameter Store and EC2.
-
-- **Client-Side Development:**
+- *Client-Side Development:*
   - Developed the client-side using Vue.js and the Tailwind CSS template.
   - Prioritized the creation of reusable and extensible Vue components for code reusability and maintainability.
   - Implemented Vue options API and Composition API for scripting, and utilized the SCSS CSS preprocessor for styling Vue files.
@@ -89,6 +84,40 @@ As a Full Stack Developer at Soludio, I was involved in a project where I contri
 
 - **WebSocket and Real-Time Communication:**
   - Built a notification infrastructure using WebSocket, enabling seamless file upload and download actions for efficient real-time communication within the application.
+    
+- *Server-Side Development:*
+
+- **Project Management and Methodologies:**
+  - Proficient in utilizing project management systems such as Jira to optimize performance.
+  - Implemented Scrum and Agile methodologies within the team for efficient project execution.
+
+- **Background Jobs with Redis:**
+  - Integrated Redis into the system for handling long-running, non-blocking jobs.
+  - Utilized Django-rq and Django-redis for managing asynchronous tasks within the Django project.
+
+- **Django Rest Framework and Django Project Structure:**
+  - Followed REST standards to create a consistent structure for the Django Rest Framework and Django project.
+  - Implemented a structure based on endpoints created for the client.
+
+- **Data Management with Pandas:**
+  - Extensively utilized the Pandas library for managing data structures.
+  - Used Pandas for the effortless generation of outputs in formats like Excel, CSV, and dictionaries.
+
+- **WebSocket Connection and Django Channels:**
+  - Improved client communication and notification processes by implementing a WebSocket connection using Django Channels.
+  - Transitioned from WSGI to ASGI to support asynchronous functionality.
+
+- **Deployment on AWS:**
+  - Deployed the product on AWS instances, utilizing services such as EC2, Parameter Store, and S3.
+  - Ensured reliable deployment on the AWS platform.
+
+- **Queue Management with RabbitMQ:**
+  - Switched Queue workers from DjangoRq to RabbitMQ for improved queue management capabilities.
+  - Streamlined processes and enhanced efficiency with this transition.
+
+- **API Integration:**
+  - Implemented different APIs and successfully integrated APIs from various marketplaces, carriers, and integrators.
+
 
 
 ## Contact
