@@ -45,5 +45,6 @@ Feel free to reach out for questions, suggestions, or collaboration opportunitie
 
 [LinkedIn](https://www.linkedin.com/in/mehniyarif/)
 [GitHub](https://github.com/mehniyarif/)
+- Email: [your.email@example.com](mailto:your.email@example.com)
 
 Thank you!
