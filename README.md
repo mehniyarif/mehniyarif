@@ -2,6 +2,16 @@
 
 Hello! I'm Arif Mehniyar, a seasoned Full Stack developer with 6 years of experience. I specialize in the following technologies:
 
+## Education
+
+- **Computer Programming**
+  - *Akdeniz University*
+  - 2017-2019
+
+- **Tourism**
+  - *Eskişehir Osmangazi University*
+  - 2011-2016
+    
 ## Technical Expertise
 
 ### Programming Languages
@@ -39,6 +49,47 @@ Hello! I'm Arif Mehniyar, a seasoned Full Stack developer with 6 years of experi
 - FedEx APIs
 - UPS APIs
 - 3rd Party Integrations
+
+## Work Experience
+
+### Full Stack Developer at Soludio
+
+As a Full Stack Developer at Soludio, I was involved in a project where I contributed to both the server-side and client-side development. Here are some key aspects of my role:
+
+- **Server-Side Development:**
+  - Utilized Python with Django Rest Framework and Django for server-side development.
+  - Implemented DevOps processes using Docker containers on Linux machines for streamlined deployment.
+  - Managed server resources using tools like Parameter Store and EC2.
+
+- **Client-Side Development:**
+  - Developed the client-side using Vue.js and the Tailwind CSS template.
+  - Prioritized the creation of reusable and extensible Vue components for code reusability and maintainability.
+  - Implemented Vue options API and Composition API for scripting, and utilized the SCSS CSS preprocessor for styling Vue files.
+
+- **Project Management and Methodologies:**
+  - Used Jira for project management and implemented Scrum and Agile methodologies within the team.
+  - Prioritized code reusability and maintainability to ensure efficient project scalability.
+
+- **Vue.js Project Specifics:**
+  - Used slots to create dynamic components such as tables, tabs, and accordions.
+  - Transitioned from webpack to Vite for Vue 3, resulting in faster deployment times.
+  - Replaced Vuex with Pinia for state management in Vue 3, improving code efficiency.
+
+- **Contribution to Open Source:**
+  - Improved a table component with project-specific features, packaged it as a standalone module, and shared it on npm for community use.
+
+- **JavaScript Expertise:**
+  - Implemented various APIs using JavaScript, including event listeners, ES6 features, web components, drag and drop functionality, notifications, navigation, intersection and mutation observers, touch events, and scroll views.
+
+- **Vue.js Concepts:**
+  - Familiar with important Vue.js concepts such as life cycles, emits, props, slots, provide and inject patterns, router integration, and state management using libraries like Vuex and Pinia.
+
+- **Tailwind CSS:**
+  - Used Tailwind extensively for responsive design and implemented features like dark mode.
+
+- **WebSocket and Real-Time Communication:**
+  - Built a notification infrastructure using WebSocket, enabling seamless file upload and download actions for efficient real-time communication within the application.
+
 
 ## Contact
 Feel free to reach out for questions, suggestions, or collaboration opportunities!
