@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-Hello! I'm Arif Mehniyar, a seasoned Full Stack developer with 6 years of experience. I specialize in the following technologies:
+Hello! I'm **Arif Mehniyar**, a seasoned Full Stack developer with 6 years of experience. I specialize in the following technologies:
 
 ## Education
 
