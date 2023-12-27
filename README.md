@@ -56,7 +56,7 @@ Hello! I'm Arif Mehniyar, a seasoned Full Stack developer with 6 years of experi
 
 As a Full Stack Developer at Soludio, I was involved in a project where I contributed to both the server-side and client-side development. Here are some key aspects of my role:
 
-- ###Client-Side Development:
+- ### Client-Side Development:
   - Developed the client-side using Vue.js and the Tailwind CSS template.
   - Prioritized the creation of reusable and extensible Vue components for code reusability and maintainability.
   - Implemented Vue options API and Composition API for scripting, and utilized the SCSS CSS preprocessor for styling Vue files.
@@ -85,7 +85,7 @@ As a Full Stack Developer at Soludio, I was involved in a project where I contri
 - **WebSocket and Real-Time Communication:**
   - Built a notification infrastructure using WebSocket, enabling seamless file upload and download actions for efficient real-time communication within the application.
     
-- ###Server-Side Development:
+- ### Server-Side Development:
 
 - **Project Management and Methodologies:**
   - Proficient in utilizing project management systems such as Jira to optimize performance.
