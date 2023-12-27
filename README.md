@@ -14,6 +14,104 @@ Hello! I'm **Arif Mehniyar**, a seasoned Full Stack developer with 6 years of ex
     
 ## Technical Expertise
 
+## Frontend Development
+
+### Vue.js
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+- Developed the client-side using Vue.js.
+- Prioritized reusable and extensible Vue components.
+- Implemented Vue options API and Composition API.
+- Utilized SCSS for styling Vue files.
+- Used slots for creating dynamic components.
+
+### Tailwind CSS
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- Extensively used Tailwind CSS for responsive design.
+- Implemented features like dark mode.
+
+### JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- Implemented various APIs using JavaScript.
+- Applied ES6 features, web components, drag and drop functionality, notifications, navigation, intersection, and mutation observers, touch events, and scroll views.
+
+## State Management
+
+### Vuex and Pinia
+![Vuex](https://img.shields.io/badge/Vuex-34495E?style=for-the-badge&logo=vuex&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-10B981?style=for-the-badge&logo=pinia&logoColor=white)
+
+- Transitioned from Vuex to Pinia for state management in Vue 3.
+- Improved code efficiency.
+
+## Backend Development
+
+### Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Django Rest Framework
+![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- Utilized Python with Django Rest Framework and Django for the server-side.
+- Followed REST standards for a consistent structure.
+
+### Docker
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- Implemented DevOps processes using Docker containers on Linux machines.
+
+## Database and Data Management
+
+### Pandas
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- Extensively utilized the Pandas library for managing data structures.
+- Generated outputs in formats like Excel, CSV, and dictionaries.
+
+### Redis
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+- Integrated Redis for handling long-running, non-blocking jobs.
+
+## Real-Time Communication
+
+### WebSocket and Django Channels
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- Built a notification infrastructure using WebSocket.
+- Implemented WebSocket connection using Django Channels for real-time bidirectional communication.
+
+## Cloud Services
+
+### AWS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- Deployed the product on AWS instances.
+- Utilized services such as EC2, Parameter Store, and S3 for reliable deployment.
+
+### RabbitMQ
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+- Switched Queue workers from DjangoRq to RabbitMQ for improved queue management capabilities.
+
+## Project Management
+
+### Jira
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+- Used Jira for project management.
+
+## Methodologies
+
+### Scrum and Agile
+![Scrum](https://img.shields.io/badge/Scrum-3498DB?style=for-the-badge&logo=scrum&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
+
+- Implemented Scrum and Agile methodologies within the team.
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
